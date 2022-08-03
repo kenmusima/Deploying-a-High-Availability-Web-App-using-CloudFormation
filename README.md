@@ -1,1 +1,5 @@
-# Deploying-a-High-Availability-Web-App-using-CloudFormation
+# Deploying a Web App using CloudFormation
+
+# Setup Environment
+
+# Architecture
