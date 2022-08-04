@@ -1,0 +1,2 @@
+aws cloudformation create-stack --stack-name NetworkStack --template-body file://../cloudformation/network-deployment.yaml --parameters file://../parameters/network-deployment.json --capabilities "CAPABILITY_IAM" "CAPABILITY_NAMED_IAM" --region=us-east-1
+                                                                                        
